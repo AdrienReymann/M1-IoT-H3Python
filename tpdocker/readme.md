@@ -6,7 +6,7 @@ La commande "docker stop" arrete un container
 La commande "docker images" liste la totalité des images build
 Le requierements.txt sert a indiqué les paquet pour d'installer les paquets requis
 
-docker build tpdocker -t <NomImage> . -> permet de build l'image
+docker build -t NomImage . -> permet de build l'image
 
 exposition port: 
 
