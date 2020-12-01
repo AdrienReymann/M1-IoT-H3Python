@@ -1,9 +1,15 @@
 La commande Run lance un contenue a partir d'une image 
+
 La commande  exec permet d'executé une commande dans un conteneur
+
 La commande Build créer une image à partir d'un fichier dockerfile
+
 La commande "docker ps" liste les container
+
 La commande "docker stop" arrete un container
+
 La commande "docker images" liste la totalité des images build
+
 Le requierements.txt sert a indiqué les paquet pour d'installer les paquets requis
 
 docker build -t NomImage . -> permet de build l'image
