@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="678e7419-a73c-4f32-92d9-0e0af11d9b70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Tp Flask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tp Flask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Templates/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Templates/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_api/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +54,17 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tpdocker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mini projet/Image_docker/src/venv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adrien\repo_git\M1-IoT-H3Python\Tp_Mini_Projet\venv\static" />
+      <recent name="C:\Users\Adrien\repo_git\M1-IoT-H3Python\Tp_Mini_Projet\venv\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adrien\repo_git\M1-IoT-H3Python\Tp_Mini_Projet\venv\static\styles" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -84,6 +100,9 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -97,10 +116,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1607079064768">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1607202566005">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607079064768" />
+    <state x="740" y="280" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607202566005" />
     <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1606999149530">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -121,9 +140,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="297" y="255" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606988672824" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1607071889468">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1607181723572">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607071889468" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607181723572" />
   </component>
 </project>
